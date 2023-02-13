@@ -1,5 +1,5 @@
-##  :dizzy_face: OC
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+## <img height="40" src="https://user-images.githubusercontent.com/102138687/218416994-6d89be7b-8ade-49a7-941d-8915ca738d9a.png">
+
 Junior web developer.
 
 <br>
