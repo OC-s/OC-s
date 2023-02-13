@@ -1,4 +1,4 @@
-## <img height="40" src="https://user-images.githubusercontent.com/102138687/218416994-6d89be7b-8ade-49a7-941d-8915ca738d9a.png">
+## :blush: OC
 
 Junior web developer.
 
