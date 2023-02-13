@@ -1,6 +1,10 @@
+<div align=center>
+
 ## 🤣 OC
 
 Junior web developer.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOC-s&count_bg=%23F92323&title_bg=%23F92323&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/OC-s)
 
 <br>
 
@@ -19,3 +23,5 @@ Junior web developer.
 
 [![PORTFOLIO Badge](https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so)](https://www.notion.so)<br>
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbsgh209@gmail.com)](mailto:dbsgh209@gmail.com) : dbsgh209@gmail.com
+
+</div>
