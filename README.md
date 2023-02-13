@@ -1,4 +1,4 @@
-## 🧔🏼‍ OC
+## 🤣 OC
 
 Junior web developer.
 
