@@ -18,7 +18,7 @@ Junior web developer.
 
 **:octocat: Contacts**
 
-[![PORTFOLIO Badge](https://img.shields.io/badge/PORTFOLIO-E6E6E6?style=flat&logo=Notion&logoColor=black&link=https://oc.super.site)](https://oc.super.site) [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbsgh209@gmail.com)](mailto:dbsgh209@gmail.com)
+[![PORTFOLIO Badge](https://img.shields.io/badge/PORTFOLIO-E6E6E6?style=flat&logo=Notion&logoColor=black&link=https://oc.simple.ink)](https://oc.simple.ink/) [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbsgh209@gmail.com)](mailto:dbsgh209@gmail.com)
 
 ##
 
