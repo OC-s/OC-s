@@ -16,10 +16,9 @@ Junior web developer.
 
 <br>
 
-**:octocat: Contacts**
+**:octocat: Important**
 
-[![PORTFOLIO Badge](https://img.shields.io/badge/PORTFOLIO-E6E6E6?style=flat&logo=Notion&logoColor=black&link=https://oc.simple.ink)](https://oc.simple.ink/) [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbsgh209@gmail.com)](mailto:dbsgh209@gmail.com)
+자세한 내용은 https://github.com/OC-s 확인하실 수 있어요
 
 ##
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOC-s&count_bg=%23F92323&title_bg=%23F92323&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/OC-s)
