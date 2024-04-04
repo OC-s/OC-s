@@ -18,7 +18,7 @@ Junior web developer.
 
 **:octocat: Important**
 
-자세한 내용은 https://github.com/OC-s 확인하실 수 있어요
+자세한 내용은 https://OC-s.github.io 확인하실 수 있어요
 
 ##
 
